@@ -1,0 +1,330 @@
+*{
+margin:0;
+padding:0;
+}
+.main_container{
+	
+	/* height: 100vh; */
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	flex-wrap:wrap;
+	gap: 20px;
+	
+}
+.card_container1{
+	padding: 10px;
+	width: 250px;
+	height: 350px;
+	background-color: yellow;
+	border-radius: 5px;
+	box-shadow: 3px 5px 15px black;
+	}
+	
+	.image_container1 img{
+		width: 250px;
+		height: 200px;
+		}
+		
+		.heading_container1 h1{
+			text-align: center;
+			line-height: 2;
+			color: blue;
+			}
+			.card_container2{
+				width: 250px;
+                height: 400px;
+                background-color:azure;
+	            box-shadow: 3px 5px 20px black;
+				border-radius: 30px;
+				/* padding: 15px; */
+
+				
+			}
+			.image_container2 img{
+			width: 250px;
+            height: 200px;
+			overflow:hidden;
+border-radius: 30px;			
+				
+			}
+			.heading_container2{
+				text-align: center;
+			}
+			.heading_container2 p{
+				padding-top: 10px;
+			}
+			.heading_container2 h2{
+				color: orangered;
+			}
+			
+			.heading_container2 .btn1 button {
+				border: none;
+				padding: 15px;
+				/* border: 5px solid pink; */
+				border-radius: 20px;
+				background-color: brown;
+				margin-top: 10px;
+				color: white;
+				font-weight: bolder;
+			}
+			
+			.card_container3{
+				width: 250px;
+                height: 400px;
+				box-shadow: 3px 5px 20px black;
+				
+			}
+			.image_container3 img {
+				width: 250px;
+				height: 230px;
+								box-shadow: 3px 5px 20px black;
+
+				}
+				.logo img{
+					width: 200px;
+					height: 60px;
+				margin-left: 20px;
+				}
+				.heading_container3 {
+					text-align: center;
+					line-height: 2;
+					font-weight: bolder;
+				}
+				
+				.btn2{
+				
+					color: white;
+					
+				}
+				.btn2 button{
+					border-style: none;
+					color: white;
+					width:100%; 
+					background-color: black;
+					padding:16px;
+					font-size: 18px;
+				}
+				
+				.card_container4{
+					width: 250px;
+					height: 400px;
+					background-color: green;
+					border-radius: 30px;
+					background-image: url(../images/elonmusk.jpg);
+					background-position: left;
+					color: skyblue;
+					box-shadow: 3px 5px 20px black;
+				}
+				.image_container4 img{
+					    width: 50px;
+                        height: 50px;
+                        margin-top: 100px;
+				}
+				.image_container4{
+					text-align: center;
+				}
+				.heading{
+					margin-top: 20px;
+					text-align: center;
+				}
+				.heading h1{
+					line-height: 1;
+					margin-bottom: 10px;
+				}
+			.heading p{
+				font-size: 18px;
+			}
+			.card_container5{
+				width: 150px;
+				height: 150px;
+					box-shadow: 2px 2px 15px black;
+					border-radius: 20px;
+					}
+					.content{
+						text-align:center;
+						font-size:18px;
+						margin-top: 30px;
+						color: orangered;
+					}
+					.card_container6{
+					width: 300px;
+					height: 406px;
+					box-shadow: 2px 2px 15px black;
+					}
+					
+					.image_container6 img{
+						width:300px;
+						height: 300px;
+						}
+					.heading6{
+						text-align: center;
+						margin-top: 20px;
+					}
+					.content6{
+						margin-top: 10px;
+						text-align: center;
+						border: 2px solid gray;
+						background-color: gray;
+						padding: 5px 5px;
+					}
+					.card_container7{
+						width: 250px;
+						
+						padding: 10px;
+						border: 8px double black;
+					}
+					.numbers h1 span{
+						font-size: 17px;
+						margin-top: 1px;
+						color: blue;
+					}
+					.card_container8{
+				width: 350px;
+				height: 380px;
+				background-color: azure;
+									box-shadow: 2px 2px 15px black;
+
+						
+					}
+					.heading_container8 label{
+	font-size: 30px;
+margin-top: 30px;
+	
+					}
+					.heading_container8 input{
+						padding: 8px;
+						margin-top: 30px;
+					}
+					.heading_container8 h1{
+						text-align: center;
+						color: blue;
+						margin-top: 20px;	
+
+					}
+					
+			.heading_container8 button{
+				border: none;
+				background-color: pink;
+				padding: 10px 20px;
+				width: 100%;
+				font-size: 20px;
+				margin-top: 40px;
+				color: blue;
+				
+			}
+			.heading_container8 button:hover{
+				opacity: 0.6;
+				}
+				
+				.card_container9{
+
+margin: 150px auto;
+background-image: url(../images/bgimg2.jpeg);
+background-position: center;
+background-size: cover;
+height: 400px;
+width: 350px;
+border: 20px solid green;
+border-radius:15px;
+line-height: 2;
+}
+.content9{
+color: white;
+text-align: center;
+}
+.line1{
+text-decoration-color: orangered;
+text-decoration-line: overline;
+}
+
+.line2{
+text-decoration-color: orangered;
+text-decoration-line: overline;
+}
+.button{
+border: 1px solid white;
+padding: 15px;
+border-radius: 5px;
+background-color: brown;
+color: white;
+}
+
+.card_container10{
+	
+	width: 250px;
+	height:150px;
+	background-color: #181718;
+	border-radius: 10px;
+	color: white;
+											box-shadow: 2px 2px 15px black;
+
+}
+.heading10{
+	
+	color: yellow;
+}
+
+.icon10 span{
+	
+	font-size: 30px;
+	color: orangered;
+	margin-top: 12px;
+	border: 5px solid white;
+	padding: 5px;
+	background-color: white;
+	border-radius: 50px;
+}
+	
+.icon10 {
+text-align: center;
+}
+
+.card_container11{
+	
+	height: 420px;
+	width: 290px;
+	border: 15px solid white;
+										box-shadow: 2px 2px 15px black;
+
+}
+.image_container11 img{
+	height: 420px;
+	width: 290px;
+	
+}
+
+.box1{
+width: 250px;
+height: 250px;
+background-color: white;
+Position:absolute;
+margin-top: 50px;
+margin-left: 50px;
+Z-index:1;
+box-shadow: 2px 2px 15px black;
+}
+.box2{
+width: 250px;
+height: 250px;
+background-color: white;
+Position:absolute;
+margin-top: 75px;
+margin-left: 75px;
+Z-index:2;
+box-shadow: 2px 2px 15px black;
+
+}
+.box3{
+width: 250px;
+height: 250px;
+background-image: url(../images/bglastimg.jpeg);
+background-size: cover;
+background-position: center;
+Position:absolute;
+margin-top: 100px;
+margin-left: 100px;
+Z-index:3;
+box-shadow: 2px 2px 15px black;
+
+}

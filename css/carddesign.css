@@ -1,0 +1,100 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+/* overflow-x: auto; */
+
+}
+	
+
+.main_container {
+
+	margin:10px;
+	text-align: center;
+	line-height: 2;
+	width:30%;
+	background-color:lightblue;
+	padding: 20px;
+	display:inline-block;
+}
+.card_section{
+	
+	margin: 0 auto;
+	width: 360px;
+	background-color: white;
+	padding: 18px;
+}
+
+.img_section{
+	border-radius: 50%;	
+	margin: 0 auto;
+	width:160px;
+	height: 113px;
+	overflow:hidden;
+	border: 6px solid gray;
+}
+
+.name_section{
+	color: orangered;
+}
+
+.icons span{
+	color: orangered;
+	padding:25px;
+}
+
+/* 2nd container */
+
+.main_container1{
+
+	padding: 0 auto;
+	margin: 25px;
+	width:30%;
+	background-color:lightblue;
+display: inline-block;	
+}
+
+.card_section1{
+	margin: 25px;
+	width: 360px;
+	background-color: white;
+	}
+
+.letters{
+	
+	border: 2px solid;
+	background-color: green;
+	color: white;
+	padding: 10px;
+}
+.lett{
+	padding: 25px;
+}
+.content{
+	text-align: left;
+	
+}
+
+/* main_container 2 */
+
+.main_container2 {
+    margin-top: 30px;
+	width:24%;
+	background-color:lightblue;
+	padding: 20px;
+	display: inline-block;
+}
+
+.card_section2{
+	
+	background-color: white;	
+}
+ .lon{
+	 text-align: center;
+	 padding: 30px;
+	 color: orangered;
+ }
+
+
+
